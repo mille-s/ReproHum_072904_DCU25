@@ -1,0 +1,9 @@
+Key,Paper,Study,System,Criterion,Result
+0729-04,Gu et al 2022,Original,MemSum,Overall_agg,1.38
+0729-04,Gu et al 2022,Original,NeuSum,Overall_agg,1.57
+0729-04,Gu et al 2022,Reproduction 1,MemSum,Overall_agg,1.27
+0729-04,Gu et al 2022,Reproduction 1,NeuSum,Overall_agg,1.33
+0729-04,Gu et al 2022,Original,MemSum,Overall,1.38
+0729-04,Gu et al 2022,Original,NeuSum,Overall,1.57
+0729-04,Gu et al 2022,Reproduction 1,MemSum,Overall,1.47
+0729-04,Gu et al 2022,Reproduction 1,NeuSum,Overall,1.53
