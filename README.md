@@ -1,5 +1,8 @@
 # ReproHum_072904_DCU25
 
+## HEDS
+Contains Human Evaluation Data Sheet materials.
+
 ## human-eval-files
 Contains the original anonymised evaluations files collected during our reproduction study.
 
