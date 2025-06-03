@@ -1,12 +1,12 @@
 # ReproHum_072904_DCU25
 
-## Instructions
-Contains the two PDFs with instructions to be followed by the reproduction team and the evaluators respectively.
-
 ## human-eval-files
 Contains the original anonymised evaluations files collected during our reproduction study.
 
-## QRA-files
+## instructions
+Contains the two PDFs with instructions to be followed by the reproduction team and the evaluators respectively.
+
+## qra-files
 Contains files used with the QRA notebook.
 
 ## MemSum_Human_Evaluation_0.ipynb
