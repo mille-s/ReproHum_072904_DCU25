@@ -2,7 +2,7 @@
 
 The two PDFs contain instructions to be followed by the reproduction team and the evaluators respectively.
 
-## evaluations_072904
+## human-eval-files
 Contains the original anonymised evaluations files collected during our reproduction study.
 
 ## MemSum_Human_Evaluation_0.ipynb
