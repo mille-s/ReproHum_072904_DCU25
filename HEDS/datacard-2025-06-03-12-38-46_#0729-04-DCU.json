@@ -1,0 +1,1073 @@
+{
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-3": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-1": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement_score": {
+        "data": {
+            "Overall": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-1": {
+        "data": {
+            "fluency": true,
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "fluency": "1. Quality of output in its own right",
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-1": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-3": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "3. relative quality estimation (including ranking)"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. N/A (please describe)"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-8": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-recruitment_method": {
+        "data": {
+            "": "Unclear."
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-paper-link": {
+        "data": {
+            "": "https://aclanthology.org/2022.acl-long.450.pdf"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-verbatim_question": {
+        "data": {
+            "Overall": "Evaluation (choose one that is closer to the reference summary)"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-2": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-system-output_types-6": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "6. text: multiple sentences"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-2": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "2. no"
+        }
+    },
+    "heds-criteria-criterion": {
+        "data": {},
+        "control": {
+            "Overall": true
+        },
+        "text": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-affiliation": {
+        "data": {
+            "": "ADAPT, Dublin City University"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-3": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "3. not paid"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-other_text": {
+        "data": {
+            "": "No information found, possibly no quality insurance was used."
+        },
+        "control": {}
+    },
+    "heds-system-input_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-email": {
+        "data": {
+            "": "sfmille@gmail.com"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-3": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-paper_and_resources-paper-experiment_identification": {
+        "data": {
+            "": "Experiment II (Section 5.4), Overall criterion."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators do not include any of the authors"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-list_or_range": {
+        "data": {
+            "Overall": "Summary A, Summary B"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-1": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-2": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "2. no"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-response_aggregation": {
+        "data": {
+            "Overall": "Unclear in the paper, but the released file with the evaluations contains 63 rankings, and 3 possible values for the rankings (1-2, 2-1, 1-1), so it is likely that the authors aggregated the rankings at item level, via majority voting: for each datapoint, if 3 or more evaluators preferred a system, that system is ranked first, and if two evaluators choose System A and the other two choose System B, there is a tie and both systems are ranked first. "
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. None of the above"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-other_text": {
+        "data": {
+            "": "Not described."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_name": {
+        "data": {
+            "Overall": "Overall"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-ethics-review_body": {
+        "data": {
+            "": "Dublin City University School of Engineering Faculty Research Ethics Committee."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluation carried out by evaluators at a place of their own choosing, e.g. online, using a paper form, etc."
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-description": {
+        "data": {
+            "": "Computer science Maters and PhD students."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-7": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-description": {
+        "data": {
+            "": "As far as I know, nothing else than the evaluation interface."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-ethics-personal_data": {
+        "data": {
+            "": "No."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. other (please describe)"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-1": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "1. Intrinsic"
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-2": {
+        "data": {
+            "fluency": false,
+            "test": false,
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "fluency": "",
+            "test": "",
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-number_of_evaluators": {
+        "data": {
+            "": "4"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-1": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-other_text": {
+        "data": {
+            "fluency": "",
+            "test": "",
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-value": {
+        "data": {
+            "": "Not found"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-method": {
+        "data": {
+            "": "Not found"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators have to complete the whole evaluation in one sitting"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-affiliation": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-ethics-special_category_data": {
+        "data": {
+            "": "No."
+        },
+        "control": {}
+    },
+    "heds-system-output_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-4": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_definiiton": {
+        "data": {
+            "Overall": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-2": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-effect_size_method": {
+        "data": {
+            "Overall": "Wilcoxon signed-rank test"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-other_text": {
+        "data": {
+            "": "Unclear in the paper."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-2": {
+        "data": {
+            "fluency": false,
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "fluency": "",
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-2": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "2. Relative"
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-3": {
+        "data": {
+            "fluency": false,
+            "test": true,
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "fluency": "",
+            "test": "3. Feature",
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-training_practice": {
+        "data": {
+            "": "Unclear, probably none. There are instructions in the evaluation interface that are pretty straightforward to follow."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement_score": {
+        "data": {
+            "Overall": "N/A"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-resources-links": {
+        "data": {
+            "": "https://github.com/nianlonggu/MemSum"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-2": {
+        "data": {
+            "fluency": true,
+            "test": false,
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "fluency": "2. Goodness",
+            "test": "",
+            "Overall": "2. Goodness"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-1": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "1. Discrete"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-10": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-name": {
+        "data": {
+            "": "Simon Mille"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_types-7": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "7. text: document"
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-1": {
+        "data": {
+            "fluency": true,
+            "test": false,
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "fluency": "1. Form of output",
+            "test": "",
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-2": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "2. Check-boxes"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-5": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-9": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_place_of_choosing": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-link": {
+        "data": {
+            "": "https://colab.research.google.com/github/nianlonggu/MemSum/blob/main/MemSum_Human_Evaluation.ipynb"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-1": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-7": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-2": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-email": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-other_text": {
+        "data": {
+            "fluency": "",
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-other_text": {
+        "data": {
+            "": "Unclear in paper"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-6": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-task_description": {
+        "data": {
+            "Overall": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-other_text": {
+        "data": {
+            "Overall": "2"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-1": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-collection_method": {
+        "data": {
+            "": "Google Colab Notebook."
+        },
+        "control": {}
+    },
+    "heds-ethics-impact_assessments": {
+        "data": {
+            "": "No."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-3": {
+        "data": {
+            "fluency": false,
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "fluency": "",
+            "Overall": "3. Quality of output relative to a system-external frame of reference"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-3": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-1": {
+        "data": {
+            "fluency": false,
+            "test": false,
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "fluency": "",
+            "test": "",
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-other_text": {
+        "data": {
+            "fluency": "",
+            "test": "",
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-characteristics": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-system-tasks-16": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "16. summarisation (text-to-text)"
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-script": {
+        "data": {
+            "": "Not found (or maybe it's hidden somewhere in the GitHub repo): https://github.com/nianlonggu/MemSum/tree/main."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. no"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-2": {
+        "data": {
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "Overall": "2. Subjective"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-4": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-8": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. non-experts"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-3": {
+        "data": {
+            "fluency": false,
+            "test": true,
+            "Overall": true
+        },
+        "control": {},
+        "text": {
+            "fluency": "",
+            "test": "3. Both form and content of output",
+            "Overall": "3. Both form and content of output"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-3": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-5": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-number_of_system_outputs": {
+        "data": {
+            "": "63"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-7": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "7. none of the above"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-11": {
+        "data": {
+            "Overall": false
+        },
+        "control": {},
+        "text": {
+            "Overall": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-name": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-description": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-other_text": {
+        "data": {
+            "Overall": ""
+        },
+        "control": {}
+    }
+}
